@@ -1,0 +1,34 @@
+{
+  "name": "mp4ba",
+  "version": "0.0.1",
+  "description": "Simple JavaScript API for Mp4ba",
+  "main": "index.js",
+  "bin": {
+    "mp4ba": "./bin/mp4ba.js"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/mp4ba.git"
+  },
+  "keywords": [
+    "mp4ba",
+    "movie",
+    "imdb"
+  ],
+  "author": "Lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/mp4ba/issues"
+  },
+  "homepage": "https://github.com/song940/mp4ba#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
